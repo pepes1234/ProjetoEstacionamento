@@ -78,7 +78,7 @@ O contexto `SistemaFabricaAutomotivaContext` contém uma _connection string_ def
 
 ```csharp
 => optionsBuilder.UseSqlServer(
-   "Data Source=SNCCHLAB02F13\\SQLEXPRESS;"
+   "Data Source=;"
  + "Initial Catalog=SistemaFabricaAutomotiva;"
  + "Integrated Security=SSPI;TrustServerCertificate=True");
 ```
