@@ -183,24 +183,3 @@ ProjetoEstacionamento/
 ```
 
 ---
-
-## 🤝 Contribuindo
-
-1. Faça um **fork** deste repositório  
-2. Crie uma nova branch: `git checkout -b feature/minha-feature`  
-3. Commit suas mudanças: `git commit -m "feat: descrição da feature"`  
-4. Push para seu fork: `git push origin feature/minha-feature`  
-5. Abra um **Pull Request**
-
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a **MIT License**. Veja [LICENSE](LICENSE) para detalhes.
-
----
-
-## 👤 Autor
-
-Feito com ❤️ por [@pepes1234](https://github.com/pepes1234)
-
